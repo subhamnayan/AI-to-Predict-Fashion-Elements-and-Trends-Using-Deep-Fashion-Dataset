@@ -1,5 +1,7 @@
 # AI-to-Predict-Fashion-Elements-and-Trends-Using-Deep-Fashion-Dataset
 
+Link to download model.h5 file- https://drive.google.com/file/d/17PQnXAyfIx7X_kMDhd6UajlDQcAGWIZe/view?usp=share_link
+
 **Abstract**
 This study focuses on the development of a machine learning model to analyse fashion trends from various fashion retailers using images from their websites. The DeepFashion dataset and images collected from fashion retailers' websites are used to train the machine learning model. The effectiveness of the model is tested by predicting the sale-through rates of provided images using previous images. The results are evaluated using appropriate metrics such as precision, recall, F1 score, and accuracy. The findings of this study will contribute to the development of machine learning models for analysing fashion trends and predicting sales in the fashion industry and have implications for marketing and business strategies for fashion retailers.
 
