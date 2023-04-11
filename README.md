@@ -1,0 +1,1 @@
+# AI-to-Predict-Fashion-Elements-and-Trends-Using-Deep-Fashion-Dataset
